@@ -5,7 +5,7 @@ Willkommen zu unserem Repo, mit welchem du mittels deiner Kamera Menschen erkenn
 Kafka-Download:
 https://downloads.apache.org/kafka/2.6.0/kafka_2.13-2.6.0.tgz
 
-Benötigte Dependencies:
+Benötigte Dependencies:  
 kafka-python  
 opencv-python  
 Flask  
